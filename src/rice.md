@@ -31,7 +31,7 @@ tags:
 * Natural release for 10 minutes, followed by a quick release
 * Fluff with a fork
 
-> Note: Do not skip rinsing the rice. Unrinsed rice will be mushy, unless you're making congee.
+> Note: Do not skip rinsing the rice. Unrinsed rice will be mushy, `unless you're making congee`.
 
 ## Storage
 

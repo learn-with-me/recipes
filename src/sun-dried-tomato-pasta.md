@@ -1,6 +1,6 @@
 ---
 tags:
-  - template
+  - pasta
   - instant pot
 ---
 
