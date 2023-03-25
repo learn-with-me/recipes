@@ -9,15 +9,15 @@ tags:
 
 ## Highlights
 
-`Serves 12`
+`Serves 12` with `76 calories` per serving.
 
 | | |
 |----|-----|
-| Prep Time             | 10 min  |
-| Pressure Cook Time    | 5 min   |
-| Natural Release Time  | 5 min   |
-| Chilling Time         | 4-8 hrs |
-| Total Time            | 5 min   |
+| Prep Time               | 10 min    |
+| Pressure Building Time  | 10-15 min |
+| Pressure Cook Time      | 5 min     |
+| Natural Release Time    | 5 min     |
+| Chilling Time           | 4-8 hrs   |
 
 ## Ingredients
 
