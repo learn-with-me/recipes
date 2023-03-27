@@ -1,8 +1,8 @@
-# MkDocs Template
+# Recipes
 
-Template for documenting notes. Go [here](https://learn-with-me.github.io/mkdocs-template/) for a demo.
+Documenting most liked recipes with sources, to refer back in future, without having to worry about remembering them or the source not available anymore.
 
-[This documentation](./docs/README.md) should have everything needed or at least most common scenarios for help.
+Just trying to make life easier, and share with people who share my taste.
 
 ## Tips
 
@@ -10,10 +10,6 @@ Template for documenting notes. Go [here](https://learn-with-me.github.io/mkdocs
   - Search: `s`, `/`
   - Previous: `p`
   - Next: `n`
-
-## Help
-
-There is good documentation [here](./help/local-development.md) for tasks that may be helpful. Feel free to check it out.
 
 ## Contribution
 
