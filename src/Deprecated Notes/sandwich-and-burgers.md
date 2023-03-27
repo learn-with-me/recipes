@@ -1,6 +1,6 @@
 # Sandwich & Burgers
 
-##### Sandwich Basics
+## Sandwich Basics
 
 * Choose a proper bread
   As a general rule, the moister the filling, the drier and dense the bread should be. Can swap in large tortillas for moist fillings.
@@ -19,6 +19,3 @@
 
 * Take the edge off onions  
   To enjoy them raw even better, you can soak thinly sliced onions in ice water for 20 mins and then blot dry to add crispness. Or toss slice onions with a generous sprinkled kosher salt, wait a few mins, rub salt into the onions, rinse and drain.
-
-
-

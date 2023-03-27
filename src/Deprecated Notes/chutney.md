@@ -1,6 +1,6 @@
 # Chutney & Dips
 
-##### Green Chutney
+## Green Chutney
 
 ```
 Coriander, Garlic, Ginger, Onion, Tomato, Green Chilli, Jeera, Lime, salt to taste
@@ -10,7 +10,7 @@ Peanuts can also be added to bind the chutney together.
 Mix Curd when done. Control on the amount of Ginger.
 ```
 
-##### Guacamole
+## Guacamole
 
 ```
 3 medium avocados or 4 small ones
@@ -21,11 +21,8 @@ Mix Curd when done. Control on the amount of Ginger.
 Optional salt and pepper to taste
 ```
 
-##### Hummus
+## Hummus
 
 ```
 https://www.youtube.com/watch?v=LoeSv5enisE
 ```
-
-
-

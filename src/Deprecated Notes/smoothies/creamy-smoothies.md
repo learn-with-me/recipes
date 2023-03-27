@@ -1,6 +1,6 @@
 # Creamy Smoothies
 
-##### Orange Creamsicle Smoothie
+## Orange Creamsicle Smoothie
 
 ```
 1 cup unsweetened almond milk (I used vanilla flavour)
@@ -12,7 +12,7 @@ Truvia or stevia to taste
 2 cups of ice
 ```
 
-##### Banana Almond Paleo Smoothie
+## Banana Almond Paleo Smoothie
 
 ```
 1 frozen banana
@@ -24,7 +24,7 @@ Truvia or stevia to taste
 Cinnamon to taste
 ```
 
-##### Coconut Banana smoothie
+## Coconut Banana smoothie
 
 ```
 100g coconut yogurt
@@ -37,6 +37,3 @@ Cinnamon to taste
 1 tbsp oats
 juice of ½ a lemon
 ```
-
-
-

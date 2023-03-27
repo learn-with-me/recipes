@@ -1,6 +1,6 @@
 # Workout Smoothie
 
-##### Double Chocolate Cherry Smoothie
+## Double Chocolate Cherry Smoothie
 
 ```
 Protein Powder   - 2 scoops   (Chocolate)
@@ -12,7 +12,7 @@ Ice              - 3-4 cubes
 Water            - 2-3 cups
 ```
 
-##### Blueberry Almond Smoothie
+## Blueberry Almond Smoothie
 
 ```
 Protein Powder   - 2 scoops   (Vanilla)
@@ -23,7 +23,7 @@ Ice              - 3-4 cubes
 Water            - 1 cups
 ```
 
-##### Chocolate Nut Shake
+## Chocolate Nut Shake
 
 ```
 Protein Powder   - 1 scoops   (Chocolate)
@@ -33,7 +33,7 @@ Chia Seeds       - 1 tbsp
 Ice              - 3-4 cubes
 ```
 
-##### Strawberry Cream Smoothie
+## Strawberry Cream Smoothie
 
 ```
 Protein Powder   - 1 scoop    (Vanilla)
@@ -41,8 +41,3 @@ Flaxseeds        - 1 tbsp
 Strawberries     - 6
 Yogurt           - 3/4 cup
 ```
-
-##### 
-
-
-

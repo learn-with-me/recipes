@@ -23,7 +23,7 @@ Green Day
 Broccoli leaf, Spinach, Arugula, Filtered water, lime juice, bulgaricus.
 ```
 
-##### Lassi
+## Lassi
 
 ```
 Salt
@@ -32,6 +32,3 @@ Green chilli
 Pudina
 Roasted ground Cumin
 ```
-
-
-

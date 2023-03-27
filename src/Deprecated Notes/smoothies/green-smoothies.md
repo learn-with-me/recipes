@@ -1,6 +1,6 @@
 # Green Smoothies
 
-##### Green Velvet smoothie
+## Green Velvet smoothie
 
 ```
 ½ a ripe avocado
@@ -10,7 +10,7 @@
 1 cup of ice, optional
 ```
 
-##### Green smoothie
+## Green smoothie
 
 ```
 250ml milk of your choice (we used unsweetened almond milk)
@@ -23,7 +23,7 @@ handful cavolo nero or spinach
 1 tbsp almond butter
 ```
 
-##### Green breakfast smoothie
+## Green breakfast smoothie
 
 ```
 1 handful spinach (about 50g/2oz), roughly chopped
@@ -35,7 +35,7 @@ handful cavolo nero or spinach
 ¼ tsp spirulina or 1 scoop of greens powder or vegan protein powder (optional)
 ```
 
-##### Tropical Green smoothie
+## Tropical Green smoothie
 
 ```
 2 to 3 cups coconut milk (depends on desired consistency)
@@ -45,7 +45,7 @@ handful cavolo nero or spinach
 1 TBSP flax seed oil
 ```
 
-##### Kale and Avocado smoothie
+## Kale and Avocado smoothie
 
 ```
 ½ avocado, peeled, stoned and roughly chopped
@@ -55,6 +55,3 @@ generous handful kale, washed well
 10cm piece cucumber, roughly chopped
 300ml coconut water
 ```
-
-
-

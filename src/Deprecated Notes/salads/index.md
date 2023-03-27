@@ -1,6 +1,6 @@
 # Salads
 
-##### General Composition
+## General Composition
 
 * Greens  
   Iceburg lettuce is very common. Try Romaine, spinach, cabbage, etc
@@ -19,7 +19,7 @@
 * Crunch  
   Adds texture and flavor. Nuts, Croutons, Seeds
 
-##### References
+## References
 
 ```
 https://www.youtube.com/watch?v=-9p31reoSD8

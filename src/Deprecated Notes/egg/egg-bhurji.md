@@ -1,6 +1,6 @@
 # Egg Bhurji
 
-##### Recipe 1
+## Recipe 1
 
 ```
 Finely chopped onion and butter
@@ -13,7 +13,7 @@ Mix nicely and evenly on a slow flame
 Fresh coriander
 ```
 
-##### Recipe 2
+## Recipe 2
 
 ```
 Use Wok
@@ -24,8 +24,3 @@ Fresh coriander
 tangy chat masala
 add eggs and stir on low
 ```
-
-
-
-
-

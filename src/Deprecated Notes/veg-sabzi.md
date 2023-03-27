@@ -1,6 +1,6 @@
 # Vegetarian Sabzi
 
-##### Spring Onion with Tomatoes
+## Spring Onion with Tomatoes
 
 ```
 Source: https://www.youtube.com/watch?v=xhn5wWzCm2I
@@ -17,6 +17,3 @@ Ginger-garlic paste, Green chilli, turmeric
 Coriander powder, Cumin powder (optional), 
 Garam Masala
 ```
-
-
-

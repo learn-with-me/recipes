@@ -1,6 +1,6 @@
-# Dressing
+# Salad Dressing
 
-##### Greek Yogurt Ranch Dressing
+## Greek Yogurt Ranch Dressing
 
 ```
 3/4 cup     whole milk plain Greek yogurt
@@ -15,7 +15,7 @@ Juice of 1/2 lemon (about 2 tablespoons)
 1/4 cup—1/2 cup buttermilk
 ```
 
-##### Lemon Vinaigrette Salad Dressing
+## Lemon Vinaigrette Salad Dressing
 
 ```
 1/4 cup    red wine vinegar
@@ -29,11 +29,6 @@ Zest and juice of 1 lemon (about 4 tablespoons juice and 3 teaspoons zest)
 1 tbsp     fresh minced oregano OR 2 tablespoons dried oregano
 ```
 
-#### Reference
+## Reference
 
-```
-https://wholefully.com/healthy-salad-dressing-recipes/
-```
-
-
-
+* [Healthy Salad Dressing Recipes](https://wholefully.com/healthy-salad-dressing-recipes/)

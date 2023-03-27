@@ -2,8 +2,7 @@
 
 Purpose of writing this book is to document few cooking basics, tricks and recipes, tailored to personal taste.
 
-
-##### Follow Chef
+## Follow Chef
 
 ```
 Jamie Oliver
@@ -12,7 +11,7 @@ Emma Bengtsson
 Rick Bayless
 ```
 
-##### Food Blogs
+## Food Blogs
 
 ```
 https://www.jamieoliver.com/
@@ -28,7 +27,7 @@ https://cookieandkate.com/recipes/
 https://bakingamoment.com/recipe-index/
 ```
 
-##### Hacker Menu
+## Hacker Menu
 
 ```
 http://hackthemenu.com/
@@ -36,7 +35,7 @@ http://hackthemenu.com/starbucks/secret-menu/
 http://hackthemenu.com/bar-louie/happy-hour/
 ```
 
-##### Diets to explore
+## Diets to explore
 
 ```
 Mediterranean

@@ -1,6 +1,6 @@
 # Detox Smoothies
 
-##### Tropical Power Smoothie
+## Tropical Power Smoothie
 
 ```
 1 cup ice
@@ -10,6 +10,3 @@
 1/2 kale chopped
 1/4 cup plain greek yogurt
 ```
-
-
-

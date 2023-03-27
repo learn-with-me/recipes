@@ -1,6 +1,6 @@
-# Chicken Stew \(Indian\)
+# Chicken Stew (Indian)
 
-#### Ingredients
+## Ingredients
 
 * Chicken leg quarter
 * Onion
@@ -8,12 +8,12 @@
 * Garlic
 * Garam Masala
 
-#### Process
+## Process
 
 * Garam Masala
-    * Cardamom \(small\)
-    * Cardamom \(big\)
-    * Jaiphal - Nutmeg \(very very small quantity\)
+    * Cardamom (small)
+    * Cardamom (big)
+    * Jaiphal - Nutmeg (very very small quantity)
     * Javitri - Mace
     * Laung - Cloves
     * Dalcheeni - Cinnamon
@@ -22,13 +22,10 @@
     * Deep fry
     * Add ginger-garlic paste
 * Half onions to be cut in four pieces
-* Slow cooker \(needs water\) or Instant Pot
+* Slow cooker (needs water) or Instant Pot
     * Place quarter sized onion
     * Place chicken leg quarters
     * Place Masala
     * Place Raw garam masala
     * Place whole dry red chili
 * Broil final product on high for 30 mins to dry out gravy
-
-
-

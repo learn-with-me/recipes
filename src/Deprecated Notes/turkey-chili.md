@@ -1,8 +1,4 @@
-# Turkey
-
-I am going to be focused on recipes related to chilli
-
-##### Turkey Chilli
+# Turkey Chili
 
 ```
 Ingredients
@@ -37,6 +33,3 @@ and cook until tender.
 Pour water into the pot. Mix in tomatoes, kidney beans, and garlic. Season chili powder, paprika, oregano, cayenne
 pepper, cumin, salt, and pepper. Bring to a boil. Reduce heat to low, cover, and simmer 30 minutes.
 ```
-
-
-

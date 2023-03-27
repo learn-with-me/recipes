@@ -1,6 +1,6 @@
 # Hydrating Smoothies
 
-##### Green fruit smoothie
+## Green fruit smoothie
 
 ```
 1 cup cucumbers, diced
@@ -11,7 +11,7 @@
 1 cup water
 ```
 
-##### Pina Colada smoothie
+## Pina Colada smoothie
 
 ```
 3 cups of frozen pineapple
@@ -20,7 +20,7 @@
 1 tbsp honey (optional)
 ```
 
-##### Sunshine smoothie
+## Sunshine smoothie
 
 ```
 500ml carrot juice, chilled
@@ -30,6 +30,3 @@ small piece ginger, peeled
 20g cashew nuts
 juice 1 lime
 ```
-
-
-

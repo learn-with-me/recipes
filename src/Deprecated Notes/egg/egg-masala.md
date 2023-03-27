@@ -1,6 +1,6 @@
 # Egg Masala
 
-##### Recipe 1
+## Recipe 1
 
 ```
 2 tbsp Ghee
@@ -21,7 +21,7 @@ Add boiled eggs cut into halves
 Add 1 or 2 fried potatoes
 ```
 
-##### Recipe 2
+## Recipe 2
 
 ```
 hard boiled eggs
@@ -36,7 +36,7 @@ Pan fry hard-boiled eggs adding a pinch of turmeric
 Mix it all and good
 ```
 
-##### Recipe 3
+## Recipe 3
 
 ```
 Neelam's Recipe

@@ -1,6 +1,6 @@
 # Keto Recipes
 
-##### Links
+## Links
 
 ```
 Main Course
@@ -30,23 +30,3 @@ A whole lot more!!
 https://ketodash.com/recipe
 https://www.ruled.me/keto-recipes/
 ```
-
-# Not Keto
-
-##### Links
-
-```
-Crockpot
-https://www.countryliving.com/food-drinks/g1903/slow-cooker-recipes/
-https://www.thereciperebel.com/dump-and-go-slow-cooker-recipes/
-https://www.delish.com/cooking/g3849/best-slow-cooker-recipes/
-https://greatist.com/eat/time-saving-crock-pot-recipes
-https://thegirlonbloor.com/15-healthy-slow-cooker-recipes-meal-prep/
-https://pinchofyum.com/12-easy-recipes-you-can-make-in-a-slow-cooker
-
-Dutch Oven
-https://pinchofyum.com/10-easy-recipes-you-can-make-in-a-dutch-oven
-```
-
-
-
