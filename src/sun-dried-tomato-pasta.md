@@ -50,7 +50,7 @@ TBD
 
 ## Feedback
 
-TBD
+Turned out great. I've made it twice and realized that the quality of sun-dried tomatoes matter a lot. First batch turned out to be a bit bitter because of the sun-dried tomatoes.
 
 ## References
 
