@@ -28,7 +28,7 @@ tags:
 * 2 tablespoons extra-virgin olive oil
 * 1 shallot, diced
 * 6 cloves garlic, minced or pressed
-* 3 scallionsm sliced (+ garnish)
+* 3 scallions sliced (+ garnish)
 * 8 ounces baby bella mushrooms, sliced (optional)
 * 2 tablespoons coconut aminos, low-sodium soy sauce or tamari
 * 1 tablespoon sesame oil
