@@ -48,4 +48,4 @@ TBD
 
 ## References
 
-* [3 EASY Instant Pot Recipes to Make in a Steamer Basket - Perfect for Beginners](https://www.youtube.com/watch?v=yah0cUxpSgs&t=82s&ab_channel=SixSisters%27Stuff) | YouTube
+* [3 EASY Instant Pot Recipes to Make in a Steamer Basket - Perfect for Beginners](https://www.youtube.com/watch?v=yah0cUxpSgs&t=82s&ab_channel=SixSisters%27Stuff) | Six Sisters' Stuff | YouTube
