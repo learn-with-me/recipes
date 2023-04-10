@@ -33,6 +33,8 @@ tags:
 | Polenta                 | 1:4               | 9 minutes              | Quick |
 | Oats (steel cut)        | 1:2               | 3 minutes              | 15 mins natural |
 
+> Note: Cook your grains in broth instead of water to enhance the flavor!
+
 ## Poultry
 
 | Meat (2-4 pounds)                   | High pressure cook time | Release |
