@@ -51,6 +51,41 @@ tags:
 
 > Note: if meat is frozen, add 10-15 minutes of cook time. If cooking whole chicken or turkey, thaw before cooking.
 
+## Meat
+
+| Meat (3-6 pounds)                   | High pressure | Release |
+|-------------------------------------|-------------------------|---------|
+| Beef roast, whole (chuck, bottom, rump, round, brisket)        | 60-75 minutes | 15 mins natural |
+| Beef roast, cut intp bite-size pieces | 15-20 minutes  | 15 mins natural |
+| Beef stew meat, cut into bite-size chunks | 10-18 minutes (the more time, the more tender)              | 5 mins natural |
+| Beef short ribs                     | 45 minutes       | 15 mins natural |
+| Beef spare ribs                     | 30 minutes       | 15 mins natural |
+| Baby back (pork back loin) ribs     | 30 minutes       | 10 mins natural |
+| Pork spare ribs                     | 30 minutes       | 10 mins natural |
+| Pork shoulder/butt                  | 60-90 minutes    | 10 mins natural |
+| Pork tenderloin, sliced into medallions 1/2 inch thick | 8 minutes | 10 mins natural |
+| Pork chops, 3/4 inch thick          | 8 minutes        | 10 mins natural |
+| Lamb shanks                         | 40 minutes       | 15 mins natural |
+
+> Note: All meat cooked with 1 cup of liquid and meat resting on trivet
+
+## Beans
+
+| 1 pound (rinsed)  | Soaked        | Unsoaked      | Release         |
+|-------------------|---------------|---------------|-----------------|
+| Black             | 20-25 minutes | 15-20 minutes | 15 mins natural |
+| Black-eyed peas   | 10-15 minutes | 30-35 minutes | 15 mins natural |
+| Chickpea/garbanzo | 10-15 minutes | 35-45 minutes | 15 mins natural |
+| Kidney            | 20-25 minutes | 15-20 minutes | 15 mins natural |
+| Pinto             | No point      | 30-35 minutes | 15 mins natural |
+| Red               | 15-20 minutes | 25-30 minutes | 15 mins natural |
+
+> Note: All beans cooked on high pressure, in 4 cups of water or broth
+
+> Note: Soaked is assumed to be soaked in salted water for 6-8 hours before cooking
+
+> Note: Yet to verify times for `Black`, `Kidney`, and `Pinto` beans since soaked is taking more time than unsoaked. Probably an error by author.
+
 ## References
 
 * [The Lighter Step-By-Step Instant Pot Cookbook: Easy Recipes for a Slimmer, Healthier You](https://www.amazon.com/Lighter-Step-Step-Instant-Cookbook/dp/031670637X/), a book by Jeffrey Eisner
