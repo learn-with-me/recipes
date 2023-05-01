@@ -57,7 +57,9 @@ Store in the frige in an airtight container for a week. It can also be frozen fo
 
 ## Feedback
 
-TBD
+This sauce turned out to be amazing. Way better than anything I've bought out from any store. It could be a personal preference, but I am going to continue making this often.
+
+As of now the batch size needs to be consumed within a week, which is too small window for us. Haven't quite figured out extending storage life in refrigerator or the freezing part. Maybe canning is the way to go.
 
 ## References
 
