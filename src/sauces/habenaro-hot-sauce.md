@@ -1,0 +1,46 @@
+# Habenaro Hot Sauce
+
+---
+tags:
+  - sauce
+---
+
+## Highlights
+
+| | |
+|----|-----|
+| Prep Time             | 5 min     |
+| Cook Time             | 25 min    |
+| Total Time            | 30 min    |
+
+## Ingredients
+
+* 10 habenaros
+* 1 onion
+* 2 green chilis
+* 8 cloves garlic
+* 1/2 cup water
+* 3/4 cup white vinegar
+* 2 teaspoons salt
+* 1 teaspoon smoked paprika powder
+* Substitues
+    * Can use apple cider vinegar instead of white vinegar
+
+## Process
+
+* Boil habenaros, onion, green chilis and garlic for about 20 minutes in water
+* Strain water out and add the veggies to the blender
+* Add everything else to the blender and give it a good blend, until smooth
+* Pour into your jar and label the date you made it on.
+
+## Storage
+
+Good in the fridge for a couple of months
+
+## Feedback
+
+We love this sauce. It is not burning hot and has a really good kick when you need heat in the food
+
+## References
+
+* Tiktok @mickaelaperez4
