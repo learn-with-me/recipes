@@ -35,9 +35,9 @@ tags:
     * Shredded parmesan to taste
     * Green onion
 * Substitutes
-    * Some people like using ranch seasoning mix instead of garlic parmesan marinade
+    * Some people like using dry ranch seasoning mix seasoning instead of garlic parmesan marinade. You can also skip cream of chicken or use broth instead, depending on the texture you're looking for.
     * Can replace green onion with fresh chives
-    * Some people use broth instead of cream of chicken
+    * Can replace cheese with cheddar cheese
 
 > Note: Use low calorie versions of cream of chicken and cream cheese, if you're counting calories
 
@@ -46,7 +46,7 @@ tags:
 * Add chicken in crockpot and rub spices on both sides
 * Add rest of the ingredients and set on low for 8 hours
 * Once done, shred chicken with 2 forks and mix it back in the pot
-* Eat as is or serve it over pasta!
+* Eat as is or serve it over pasta or even rice!
 * Additionally, you can add hot sauce and/or green onion while serving.
 
 > Note: I may have texture preferences. Some people recommend using hand blender to shred chicken. I didn't like it, so I prefer using forks. It doesn't take long.
@@ -65,4 +65,4 @@ I've tried it without optional ingredients and toppings. It was mildly flavored 
 
 ## References
 
-* Tiktok @georgieeats
+* Tiktok @yourbarefootneighbor
