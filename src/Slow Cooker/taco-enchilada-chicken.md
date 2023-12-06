@@ -1,4 +1,4 @@
-# Creamy Chicken
+# Taco Enchilada Chicken
 
 ---
 tags:
@@ -16,12 +16,14 @@ tags:
 
 ## Ingredients
 
-* Chicken breasts
-* 1 pack of taco seasoning mix
-* 1 can red enchilada sauce
+* 4 Chicken breasts
+* 1 pack of taco seasoning mix (use Ortega or any other brand)
+* 1 10oz can red enchilada sauce
 * Optional Ingredients
 * Optional Toppings
     * Blended cottage cheese
+
+> Note: use liquid wisely if you're looking for drier consistency. I used 19 oz can, and couldn't make my burritos, while the taste was still good. I wouldn't replace enchilada sauce with anything, for now.
 
 ## Process
 
@@ -38,7 +40,7 @@ TBD
 
 ## Feedback
 
-TBD
+It's ok so far. I like it, but it needs something more that I need to figure out. Based on consistency, it will work well for tacos, and may be nachos. A little runny though. Will try reducing the amount of sauce used.
 
 ## References
 
