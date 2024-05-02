@@ -28,6 +28,8 @@ tags:
 
 * Blend your mixture really well (about 2-3 minutes)
 
+> Note: Adding one more chipotle pepper spices the sauce a bit more and texture comes out better as well.
+
 > Note: Use on burrito bowl, salads, sandwiches or eggs
 
 ## Storage
