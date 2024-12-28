@@ -15,9 +15,9 @@ tags:
 
 ## Ingredients
 
-* 3/4 cup vegetable oil
+* 3/4 cup neutral oil
 * 1/3 cup red wine vinegar
-* 2 chipotle peppers in adobo sauce
+* 2 chipotle peppers in Adobo sauce
 * 3 tablespoons honey
 * 2 cloves garlic
 * 1/2 teaspoon italian seasoning (or oregano)

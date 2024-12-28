@@ -21,12 +21,12 @@ tags:
 * 1 tablespoon red pepper chili flakes
 * 1 tablespoon soy sauce
 * 1 tablespoon black vinegar
-* 2-3 tablespoons neutral oil (vegatable oil)
+* 2-3 tablespoons neutral oil (vegetable oil)
 * Optional
     * 1 tablespoon oyster sauce
     * 1 tablespoon ginger paste
     * Sugar to taste, if you like the sweeter side
-* Substitues
+* Substitutes
     * Can replace black vinegar with balsamic vinegar, apple cider vinegar or any wine vinegar, or even lemon juice with honey
     * Can replace oyster sauce with Hoisin sauce
 
