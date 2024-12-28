@@ -37,7 +37,7 @@ tags:
 * Tadka
     * 2 tablespoons ghee or oil
     * 1 pinch of asafetida
-    * 1 teaspoon cumin jeera
+    * 1 teaspoon cumin (jeera)
     * 1 tablespoon garlic, finely chopped or grated
     * 1/4 green chili, slit
     * 1 tablespoon cilantro (coriander) leaves
