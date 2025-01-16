@@ -2,7 +2,7 @@
 
 ---
 tags:
-  - sauce
+  - spreads
 ---
 
 ## Highlights

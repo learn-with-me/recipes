@@ -1,7 +1,6 @@
 ---
 tags:
-  - basics
-  - blend
+  - dips
 ---
 
 # Pesto
@@ -25,7 +24,7 @@ tags:
 * 1/3 cup extra-virgin olive oil
 * 1/4 cup pine nuts, walnuts or pistachios
 
-> Note: You can replace olive oil with 1 ripe avocado and 2 tablespoons cold water, for healthier and cremier pesto
+> Note: You can replace olive oil with 1 ripe avocado and 2 tablespoons cold water, for healthier and creamier pesto
 
 ## Process
 

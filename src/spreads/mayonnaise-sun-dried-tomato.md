@@ -22,7 +22,7 @@ tags:
 * 1 teaspoon Dijon Mustard
 * 1 egg yolk
 * Salt and Black pepper to taste
-* Substitues
+* Substitutes
     * Can oregano flakes if fresh not available
 
 ## Process
