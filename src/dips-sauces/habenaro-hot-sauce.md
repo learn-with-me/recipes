@@ -1,9 +1,9 @@
-# Habenaro Hot Sauce
-
 ---
 tags:
   - sauce
 ---
+
+# Habenaro Hot Sauce
 
 ## Highlights
 

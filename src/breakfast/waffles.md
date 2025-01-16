@@ -1,9 +1,9 @@
-# Waffles
-
 ---
 tags:
   - breakfast
 ---
+
+# Waffles
 
 ## Highlights
 

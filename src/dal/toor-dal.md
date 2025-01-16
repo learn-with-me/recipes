@@ -1,9 +1,9 @@
-# Toor dal (Arhar)
-
 ---
 tags:
   - dal
 ---
+
+# Toor dal (Arhar)
 
 ## Highlights
 

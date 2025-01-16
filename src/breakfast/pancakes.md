@@ -1,9 +1,9 @@
-# Buttermilk Pancakes
-
 ---
 tags:
   - breakfast
 ---
+
+# Buttermilk Pancakes
 
 ## Highlights
 

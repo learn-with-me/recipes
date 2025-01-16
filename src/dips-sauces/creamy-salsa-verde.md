@@ -1,10 +1,10 @@
-# Creamy Salsa Verde
-
 ---
 tags:
   - dips
   - salsa
 ---
+
+# Creamy Salsa Verde
 
 ## Highlights
 

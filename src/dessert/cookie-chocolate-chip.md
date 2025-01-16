@@ -1,11 +1,11 @@
-# Chocolate chip cookie
-
 ---
 tags:
   - bake
   - dessert
   - cookie
 ---
+
+# Chocolate chip cookie
 
 ## Highlights
 

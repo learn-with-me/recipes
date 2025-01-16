@@ -1,10 +1,10 @@
-# Spicy avocado dip
-
 ---
 tags:
   - dips
   - salsa
 ---
+
+# Spicy avocado dip
 
 ## Highlights
 

@@ -1,9 +1,9 @@
-# Chipotle Honey Vinaigrette
-
 ---
 tags:
   - sauce
 ---
+
+# Chipotle Honey Vinaigrette
 
 ## Highlights
 

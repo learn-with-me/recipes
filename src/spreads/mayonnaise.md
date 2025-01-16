@@ -1,9 +1,9 @@
-# Mayonnaise
-
 ---
 tags:
   - spreads
 ---
+
+# Mayonnaise
 
 ## Highlights
 

@@ -1,9 +1,9 @@
-# Sun-dried Tomato mayo
-
 ---
 tags:
   - spreads
 ---
+
+# Sun-dried Tomato mayo
 
 ## Highlights
 

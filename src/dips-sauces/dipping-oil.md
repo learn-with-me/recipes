@@ -1,9 +1,9 @@
-# Dipping Oil
-
 ---
 tags:
   - dips
 ---
+
+# Dipping Oil
 
 ## Highlights
 

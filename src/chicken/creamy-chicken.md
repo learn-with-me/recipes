@@ -1,10 +1,10 @@
-# Creamy Chicken
-
 ---
 tags:
   - Slow Cooker
   - Chicken
 ---
+
+# Creamy Chicken
 
 ## Highlights
 

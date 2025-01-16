@@ -1,10 +1,10 @@
-# Banana Bread
-
 ---
 tags:
   - bake
   - dessert
 ---
+
+# Banana Bread
 
 ## Highlights
 

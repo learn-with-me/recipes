@@ -1,9 +1,9 @@
-# Hollandaise Sauce
-
 ---
 tags:
   - sauce
 ---
+
+# Hollandaise Sauce
 
 ## Highlights
 

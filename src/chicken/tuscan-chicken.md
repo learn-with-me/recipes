@@ -1,10 +1,10 @@
-# Tuscan Chicken
-
 ---
 tags:
   - Slow Cooker
   - Chicken
 ---
+
+# Tuscan Chicken
 
 ## Highlights
 

@@ -1,9 +1,9 @@
-# Tatziki-style Sauce
-
 ---
 tags:
   - sauce
 ---
+
+# Tatziki-style Sauce
 
 ## Highlights
 

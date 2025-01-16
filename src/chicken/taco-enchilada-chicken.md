@@ -1,10 +1,10 @@
-# Taco Enchilada Chicken
-
 ---
 tags:
   - Slow Cooker
   - Chicken
 ---
+
+# Taco Enchilada Chicken
 
 ## Highlights
 

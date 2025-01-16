@@ -1,3 +1,8 @@
+---
+tags:
+  - spreads
+---
+
 # Cream cheese
 
 ## References

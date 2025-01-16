@@ -1,9 +1,9 @@
-# Pickle Schmear
-
 ---
 tags:
   - spreads
 ---
+
+# Pickle Schmear
 
 ## Highlights
 

@@ -1,10 +1,10 @@
-# Khichdi
-
 ---
 tags:
   - dal
   - rice
 ---
+
+# Khichdi
 
 ## Highlights
 
@@ -63,3 +63,4 @@ TBD
 
 * [INSTANT POT RICE & LENTIL PORRIDGE | EASY Pressure Cooker Dal Khichdi](https://www.youtube.com/watch?v=epWkmfCpy8k&ab_channel=CurriesWithBumbi) | YT CurriesWithBumbi
 * [Instant pot Dal Khichdi, How to make dal khichdi in Instant pot](https://www.youtube.com/watch?v=4F1XWxb90qU&ab_channel=RaksKitchen) | YT RaksKitchen
+* [Moong Dal Khichdi in Instant Pot](https://www.youtube.com/watch?v=pSSPMJ9qRao&ab_channel=Kitchenpostcards%28Kitchenpostcards%29) | YT Kitchenpostcards
