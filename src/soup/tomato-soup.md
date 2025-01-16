@@ -1,7 +1,6 @@
 ---
 tags:
   - soup
-  - tomato soup
   - instant pot
 ---
 

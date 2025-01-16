@@ -2,7 +2,6 @@
 tags:
   - soup
   - instant pot
-  - immersion blender
 ---
 
 # Butternut Squash Soup

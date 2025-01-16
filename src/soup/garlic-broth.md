@@ -1,6 +1,6 @@
 ---
 tags:
-  - broth
+  - soup
   - instant pot
 ---
 
