@@ -1,8 +1,7 @@
 ---
 tags:
   - instant pot
-  - immersion blender
-  - basics
+  - snack
 ---
 
 # Natural Applesauce

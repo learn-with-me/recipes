@@ -1,6 +1,7 @@
 ---
 tags:
   - pasta
+  - carbs
   - instant pot
 ---
 
@@ -26,7 +27,7 @@ tags:
 * 6 large shallots
 * 3 cloves garlic, minced or pressed
 * 1 bunch scallions, sliced (reserve some for garnish)
-* 0.5 cup dry white wine (like Chardonay) or additional broth
+* 0.5 cup dry white wine (like Chardonnay) or additional broth
 * 2.5 cups garlic broth or low sodium vegetable broth
 * 1 teaspoon Italian seasoning
 * 1 pound medium shells pasta

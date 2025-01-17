@@ -1,6 +1,7 @@
 ---
 tags:
   - quinoa
+  - carbs
   - instant pot
 ---
 
@@ -24,7 +25,7 @@ tags:
 * 3 tablespoons extra-virgin olive oil
 * 1 small red onion, diced
 * 1 red bell pepper, seeded and finely diced
-* 1 jalapeno pepper, seeed and finely diced (optional)
+* 1 jalapeno pepper, seeded and finely diced (optional)
 * 3 garlic cloves, minced or pressed
 * 2 cups quinoa
 * Juice of 1 lime
@@ -46,7 +47,7 @@ tags:
 * Add oil, hit saute. Wait 3 minutes for oil to heat
 * Saute onion, bell pepper and jalapeno for 5 minutes (until lightly softened)
 * Saute garlic for 1 minute
-* Add quino and toss until coated in veggies
+* Add quinoa and toss until coated in veggies
 * Add everything and stir well
 * Pressure cook on high for 1 minute
 * Natural release for 10 minutes, followed up with quick release

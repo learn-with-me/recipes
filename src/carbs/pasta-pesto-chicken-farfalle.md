@@ -2,6 +2,7 @@
 tags:
   - chicken
   - pasta
+  - carbs
   - instant pot
 ---
 
@@ -27,7 +28,7 @@ tags:
 * 1 pound boneless, skinless chicken brest, cut into bite-size pieces
 * 10 ounce frozen peas (optional)
 * fresh basil, chopped (optional)
-* Pesto (store-bought or make your own [here](./pesto.md))
+* Pesto (store-bought or make your own [here](../spreads/pesto.md))
 
 ## Process
 
