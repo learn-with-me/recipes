@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Green Smoothies
 
 ## Green Velvet smoothie

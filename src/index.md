@@ -22,3 +22,7 @@ Check him out at:
 * His books on [Amazon](https://www.amazon.com/stores/author/B07YC4XQGN/allbooks).
 * His website [pressureluckcooking.com](https://pressureluckcooking.com/)
 * His YouTube channel [Pressure Luck Cooking](https://www.youtube.com/c/PressureLuck)
+
+### TikTok
+
+There are many amazing content creators who post recipes on TikTok. The recipes are short, and descriptive. I've learnt a lot from them. Recipes from tiktok are tagged with the content creator account handle.

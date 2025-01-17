@@ -2,7 +2,6 @@
 tags:
   - Beef
   - Chili
-  - Hot dog
 ---
 
 # Hot Dog Chili

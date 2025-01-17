@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - juice
+---
+
 # Juicing
 
 ```
@@ -11,7 +17,7 @@ Love at first sight
 Green apple, Kale, Spinach, Lemon
 
 Love me
-Green apple, Kale, Spinach, Lemon, proviotic
+Green apple, Kale, Spinach, Lemon, probiotic
 
 Mother Earth
 Cucumber, Celery, Kale, Swiss Chard, Dandelion, Parsley, Lemon, Ginger
@@ -21,14 +27,4 @@ Celery, Cucumber, Pear, Grapefruit, Kale, Parsley
 
 Green Day
 Broccoli leaf, Spinach, Arugula, Filtered water, lime juice, bulgaricus.
-```
-
-## Lassi
-
-```
-Salt
-Water
-Green chilli
-Pudina
-Roasted ground Cumin
 ```

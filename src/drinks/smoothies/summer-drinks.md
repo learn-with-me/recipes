@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Summer Drinks
 
 ## Fruit Drinks

@@ -1,8 +1,14 @@
+---
+tags:
+  - Turkey
+  - Chili
+---
+
 # Turkey Chili
 
-```
-Ingredients
+## Ingredients
 
+```
 1 1/2 teaspoons olive oil
 1 pound ground turkey
 1 onion, chopped
@@ -22,8 +28,11 @@ Ingredients
 1/2 teaspoon ground cumin
 1/2 teaspoon salt
 1/2 teaspoon ground black pepper
+```
 
-Directions
+## Directions
+
+```
 In a large skillet, saute onions, garlic and bell peppers in olive oil over medium heat until onions are translucent.
 Add ground turkey and cook until browned.
 Add remaining ingredients and stir well to combine. Reduce heat to low and simmer for 1 hour, stirring occasionally.

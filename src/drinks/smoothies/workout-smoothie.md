@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Workout Smoothie
 
 ## Double Chocolate Cherry Smoothie

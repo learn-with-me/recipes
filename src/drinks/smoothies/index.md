@@ -1,10 +1,16 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Smoothies
 
 You can have million combinations that won't taste bad as a smoothie while keeping it healthy.
 
 Here are some basics to keep in mind:
 
-* I personally own a Vitamix. It is an expensive machine, so if you are under budget, try atleast going with a 1000+ watt machine. Nutri-bullet is a very good alternative.
+* I personally own a Vitamix. It is an expensive machine, so if you are under budget, try at least going with a 1000+ watt machine. Nutribullet is a very good alternative.
 * Usually I freeze my fruits and vegetables for two reasons:
     * No need to use ice in smoothie. Frozen ingredients are usually good enough.
     * Prolonged life
@@ -28,7 +34,7 @@ Here are some basics to keep in mind:
     * Ice cream
     * Cottage cheese
     * Yogurt
-* Flavor boost : Spices, Herbs, Sweetner
+* Flavor boost : Spices, Herbs, Sweetener
     * Cinnamon
     * Nutmeg
     * Mint

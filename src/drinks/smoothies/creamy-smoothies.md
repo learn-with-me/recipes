@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Creamy Smoothies
 
 ## Orange Creamsicle Smoothie

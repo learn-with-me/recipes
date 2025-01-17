@@ -1,3 +1,9 @@
+---
+tags:
+  - drink
+  - smoothie
+---
+
 # Hydrating Smoothies
 
 ## Green fruit smoothie
