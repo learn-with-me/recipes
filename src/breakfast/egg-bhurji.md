@@ -1,3 +1,9 @@
+---
+tags:
+  - breakfast
+  - egg
+---
+
 # Egg Bhurji
 
 ## Recipe 1

@@ -1,3 +1,10 @@
+---
+tags:
+  - Beef
+  - instant pot
+  - Danish
+---
+
 # Haleem
 
 * 1 unit - Arhar, Chana dal, Washed Masoor (pink), Washed Urad (white), Washed Moong, Rice
@@ -6,6 +13,6 @@
 * Onion-Ginger-Garlic paste - fry in oil
 * Red mirch, Salt
 * Gosht
-* Pressure cook - Insta Pot (40 min - +10 mins for frozen)
+* Pressure cook - Instant Pot (40 min - +10 mins for frozen)
 * Garam Masala
 * Green Chili, Adrak, Lime

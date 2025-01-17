@@ -4,7 +4,7 @@ tags:
   - instant pot
 ---
 
-# Chicken Schawarma
+# Chicken Shawarma
 
 ## Highlights
 

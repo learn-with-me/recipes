@@ -1,3 +1,10 @@
+---
+tags:
+  - Chicken
+  - slow cooker
+  - Danish
+---
+
 # Chicken Stew (Indian)
 
 ## Ingredients

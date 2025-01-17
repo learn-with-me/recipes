@@ -1,3 +1,10 @@
+---
+tags:
+  - Beef
+  - slow cooker
+  - Danish
+---
+
 # Keema
 
 ## Ingredients
