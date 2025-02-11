@@ -5,13 +5,13 @@ tags:
 
 # Introduction
 
-Over my lifetime, I've come across some amazing recipes. Unfortunately, the way my brain works, unless I am actively practicing something, I'll forget it. And because of this, I have some deep regret about not being able to remember those recipes. Also, with changing times, some methods have evolved.
+Welcome to my culinary journey! Over the years, I've stumbled upon some truly amazing recipes that have left a lasting impression on my taste buds. However, like many of us, I tend to forget them unless I practice regularly. This has led to some regret over not being able to recall those delightful dishes. Plus, with the ever-evolving world of cooking, new methods and techniques are constantly emerging.
 
-I started writing these notes to document cooking basics, recipes, methods, and tricks, tailored to my personal taste.
+To preserve these culinary treasures and adapt to modern cooking trends, I decided to document my favorite recipes, cooking basics, methods, and tricks—all tailored to my personal taste. This notebook is my way of sharing my passion for cooking with you, and I hope it inspires you to create delicious meals in your own kitchen.
 
 ## Credits
 
-This section is to credit the creators of the work I am using to build my notebook.
+I want to give a shoutout to the incredible creators whose work has inspired and guided me on this journey.
 
 ### Jeffrey Eisner
 
