@@ -3,7 +3,7 @@
 ## General Composition
 
 * Greens  
-  Iceburg lettuce is very common. Try Romaine, spinach, cabbage, etc
+  Iceberg lettuce is very common. Try Romaine, spinach, cabbage, etc
 
 * Flavors  
   This is what gives salad a character.  
@@ -21,9 +21,4 @@
 
 ## References
 
-```
-https://www.youtube.com/watch?v=-9p31reoSD8
-```
-
-
-
+* [Jamie Oliver's principles for superb salads](https://www.youtube.com/watch?v=-9p31reoSD8&ab_channel=JamieOliver) | YT Jamie Oliver
