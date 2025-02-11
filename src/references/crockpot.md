@@ -1,3 +1,8 @@
+---
+tags:
+  - references
+---
+
 # Crockpot Recipes
 
 ## Chicken in Crockpot

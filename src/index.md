@@ -13,15 +13,7 @@ To preserve these culinary treasures and adapt to modern cooking trends, I decid
 
 I want to give a shoutout to the incredible creators whose work has inspired and guided me on this journey.
 
-### Jeffrey Eisner
-
-I started following [Jeffrey Eisner](https://www.amazon.com/stores/author/B07YC4XQGN/about) for his recipes using Instant Pot
-
-Check him out at:
-
-* His books on [Amazon](https://www.amazon.com/stores/author/B07YC4XQGN/allbooks).
-* His website [pressureluckcooking.com](https://pressureluckcooking.com/)
-* His YouTube channel [Pressure Luck Cooking](https://www.youtube.com/c/PressureLuck)
+For more information on creators and other references, checkout the [references](./references/index.md) section.
 
 ### TikTok
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - cooking chart
   - instant pot
+  - references
 ---
 
 # Instant Pot Cooking Chart

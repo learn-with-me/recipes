@@ -1,3 +1,8 @@
+---
+tags:
+  - references
+---
+
 # Kitchen Basics
 
 ## Basics
