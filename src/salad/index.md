@@ -2,22 +2,13 @@
 
 ## General Composition
 
-* Greens  
-  Iceberg lettuce is very common. Try Romaine, spinach, cabbage, etc
-
-* Flavors  
-  This is what gives salad a character.  
-  Fruit: apple, dried cranberries.  
-  Veggie: Avocado, carrots, tomatoes, cucumbers, olives, onions.
-
-* Proteins  
-  Cheese, Hardboiled egg, beans, meats
-
-* Dressing  
-  Ranch, Yogurt Dill, Herbed Vinaigrette. Or make your own
-
-* Crunch  
-  Adds texture and flavor. Nuts, Croutons, Seeds
+* `Greens` - Iceberg lettuce is very common. Try Romaine, spinach, cabbage, etc
+* `Veggie` - Avocado, carrots, tomatoes, cucumbers, olives, onions.
+* `Proteins` - Cheese, Hardboiled egg, beans, meats
+* `Flavors` - This is what gives salad a character.  
+  Fruit: apple, dried cranberries.
+* `Dressing` - Ranch, Yogurt Dill, Vinaigrette. Or make your own
+* `Crunch` - Adds texture and flavor. Nuts, Croutons, Seeds
 
 ## References
 
