@@ -1,3 +1,8 @@
+---
+tags:
+  - salsa
+---
+
 # 🌶️ Salsa Roja (Red Salsa) – ArnieTex Style
 
 A rich, smoky, and versatile salsa made with dried chiles—perfect for tacos, grilled meats, or as a flavorful dip.

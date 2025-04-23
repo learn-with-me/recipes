@@ -1,3 +1,8 @@
+---
+tags:
+  - salsa
+---
+
 # 🌶️ Salsa Martajada – Chef Saúl Montiel
 
 A smoky, flavorful salsa with a rich depth, perfect for pairing with grilled meats, tacos, or as a dip for tortilla chips.

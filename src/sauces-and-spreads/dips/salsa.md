@@ -1,3 +1,8 @@
+---
+tags:
+  - salsa
+---
+
 # 🌶️ Restaurant-Style Salsa
 
 A flavorful and tangy salsa perfect for pairing with chips or as a topping for your favorite Mexican dishes.

@@ -1,3 +1,8 @@
+---
+tags:
+  - salsa
+---
+
 # 🌶️ Salsa Ranchera
 
 A classic Mexican roasted salsa, perfect for tacos, grilled meats, or as a flavorful dip.

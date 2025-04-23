@@ -4,6 +4,11 @@ tags:
   - salsa
 ---
 
+---
+tags:
+  - salsa
+---
+
 # Creamy Salsa Verde
 
 ## Highlights
@@ -19,14 +24,14 @@ tags:
 * 1.5 lbs green tomatoes
 * Olive oil
 * 1 bunch cilantro
-* 3 Jalapeneos
+* 3 Jalapeños
 * 2 cloves garlic
 * 1 onion
 * 1 avocado
 * Juice of 1 lime
 * 2 teaspoon fresh oregano
 * Cumin, Salt and Black pepper to taste
-* Substitues
+* Substitutes
     * Can oregano flakes if fresh not available
 
 ## Process
