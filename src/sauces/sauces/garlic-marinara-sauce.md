@@ -53,7 +53,7 @@ tags:
 
 ## Storage
 
-Store in the frige in an airtight container for a week. It can also be frozen for 2-3 months.
+Store in the fridge in an airtight container for a week. It can also be frozen for 2-3 months.
 
 ## Feedback
 
