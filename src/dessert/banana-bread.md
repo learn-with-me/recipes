@@ -1,7 +1,7 @@
 ---
 tags:
-  - bake
   - dessert
+  - bread
 ---
 
 # Banana Bread
